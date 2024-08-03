@@ -1,0 +1,9 @@
+fastapi
+pymongo
+pydantic
+pydantic-settings
+pandas
+python-dotenv
+uvicorn
+python-multipart
+watchdog
